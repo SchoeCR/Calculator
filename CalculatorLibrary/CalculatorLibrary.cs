@@ -1,4 +1,6 @@
 ﻿// CalculatorLibrary.cs
+using System.Diagnostics;
+
 namespace CalculatorLibrary
 {
     public class Calculator
